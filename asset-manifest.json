@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tiktok-geym/static/css/main.0197d28a.chunk.css",
+    "main.js": "/tiktok-geym/static/js/main.1c92777b.chunk.js",
+    "main.js.map": "/tiktok-geym/static/js/main.1c92777b.chunk.js.map",
+    "runtime-main.js": "/tiktok-geym/static/js/runtime-main.0b191bea.js",
+    "runtime-main.js.map": "/tiktok-geym/static/js/runtime-main.0b191bea.js.map",
+    "static/js/2.b2f797ad.chunk.js": "/tiktok-geym/static/js/2.b2f797ad.chunk.js",
+    "static/js/2.b2f797ad.chunk.js.map": "/tiktok-geym/static/js/2.b2f797ad.chunk.js.map",
+    "static/js/3.5df70790.chunk.js": "/tiktok-geym/static/js/3.5df70790.chunk.js",
+    "static/js/3.5df70790.chunk.js.map": "/tiktok-geym/static/js/3.5df70790.chunk.js.map",
+    "index.html": "/tiktok-geym/index.html",
+    "static/css/main.0197d28a.chunk.css.map": "/tiktok-geym/static/css/main.0197d28a.chunk.css.map",
+    "static/js/2.b2f797ad.chunk.js.LICENSE.txt": "/tiktok-geym/static/js/2.b2f797ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b191bea.js",
+    "static/js/2.b2f797ad.chunk.js",
+    "static/css/main.0197d28a.chunk.css",
+    "static/js/main.1c92777b.chunk.js"
+  ]
+}
